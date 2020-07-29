@@ -1,0 +1,11 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "前端之路！开始！",
+  "main": "main.js",
+  "author": "sunshu",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.44.0"
+  }
+}
